@@ -42,7 +42,11 @@ export const insertConfigSchema = createInsertSchema(config).omit({
   lastCheck: true,
 });
 
-export const updateConfigSchema = insertConfigSchema.partial();
+export const updateConfigSchema = createInsertSchema(config).omit({
+  id: true,
+  createdAt: true,
+  updatedAt: true,
+}).partial();
 
 export type InsertConfig = z.infer<typeof insertConfigSchema>;
 export type UpdateConfig = z.infer<typeof updateConfigSchema>;
