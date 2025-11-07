@@ -1,0 +1,553 @@
+Skip to content
+Navigation Menu
+tawanamohammadi
+
+Type / to search
+Overview
+Repositories
+37
+Projects
+Packages
+Stars
+5
+
+tawana mohammadi - توانا محمدی
+tawanamohammadi
+⚡ Sentient Nexus | 🔐 Cybersecurity | 💻 Code Architect | 🧠 AI & Deep Learning | 🧬 Med Imaging | ⛓ Blockchain | 🔭 Quantum Sec | 11+ yrs in the cyber shadows
+ 0 followers · 1 following
+Tawana Network
+Harvard University
+tawana.online
+https://orcid.org/0009-0009-8106-5917
+https://tawanamohammadi.medium.com/
+u/tawanamohammadi
+https://orcid.org/0009-0005-6825-6728
+https://scholar.google.com/citations?user=VP8O0a4AAAAJ&hl=en
+tawanamohammadi/README.md
+Tawana Mohammadi - AI Researcher		
+
+
+Tawana Mohammadi | توانا محمدی
+AI Researcher • Data Strategist • Educator
+پژوهشگر هوش مصنوعی • استراتژیست داده • مدرس
+University of the People Harvard University Independent Researcher
+
+🎓 View University of the People Orientation Badge
+    
+
+Typing Animation
+
+About	
+Research	
+Publications	
+Network	
+Skills	
+Contact
+brain icon About Me | درباره من
+const tawanaProfile: ResearcherProfile = {
+  name: {
+    en: "Tawana Mohammadi",
+    fa: "توانا محمدی",
+    aliases: ["tawanamohammadi", "tavana mohammadi", "tavanamohammadi"]
+  },
+
+  role: "AI Researcher & Data Strategist & Educator",
+
+  affiliation: [
+    "University of the People (B.Sc. Computer Science, AI Track)",
+    "Harvard University (Research Collaborator)",
+    "Tawana Network (Founder - Ethical AI Research Hub)",
+    "Independent Researcher (Tehran, Iran)"
+  ],
+
+  identifiers: {
+    orcid: "0009-0005-6825-6728",
+    webOfScience: "ORI-6601-2025",
+    googleScholar: "VP8O0a4AAAAJ"
+  },
+
+  mission: `Designing human-centered, transparent, and responsible AI systems
+            that empower individuals through ethical innovation and data literacy.
+
+            طراحی سیستم‌های هوش مصنوعی انسان‌محور، شفاف و مسئولانه که افراد را
+            از طریق نوآوری اخلاقی و سواد داده توانمند می‌کند.`,
+
+  experience: "10+ years in AI systems, cybersecurity, and education",
+
+  researchInterests: [
+    "🤖 AI Ethics & Governance",
+    "📊 Data Transparency & Strategy",
+    "🧠 Prompt Engineering & AI Literacy",
+    "🔒 Cybersecurity & Digital Rights",
+    "🤝 Human-AI Collaboration",
+    "🌐 Internet Freedom & Censorship Research"
+  ],
+
+  languages: ["English", "فارسی (Persian)", "Python", "TypeScript"],
+  location: "🇮🇷 Tehran, Iran (Remote/Global)",
+  website: "https://tawana.online",
+  email: "info@tawana.online",
+  phone: "+98 990 112 0235"
+};
+  
+🎯 Research Vision | چشم‌انداز پژوهشی
+"AI should remain transparent, inclusive, and grounded in empathy."
+«هوش مصنوعی باید شفاف، فراگیر و مبتنی بر همدلی باقی بماند.»
+
+With over a decade of experience, I explore how algorithms and human values can coexist in transparent, ethical digital ecosystems. True progress in AI lies not in power, but in empathy, accessibility, and accountability.
+divider
+ Research Interests & Projects | پژوهش‌ها و پروژه‌ها
+🔬 Current Research Areas | حوزه‌های پژوهشی فعال
+🤖 AI Ethics & Governance
+هوش مصنوعی اخلاق‌محور و حاکمیت داده
+
+Ethical frameworks for AI systems
+Algorithmic accountability
+Bias detection and mitigation
+Responsible AI deployment
+📊 Data Transparency & Strategy
+شفافیت و راهبرد داده‌ها
+
+Open data initiatives
+Privacy-preserving analytics
+Data governance architecture
+Transparency reporting standards
+🧠 Prompt Engineering & AI Literacy
+مهندسی پرامپت و سواد هوش مصنوعی
+
+Educational frameworks
+ChatGPT system analysis
+Human-AI interaction design
+Public AI education
+🔒 Cybersecurity & Digital Rights
+امنیت سایبری و حقوق دیجیتال
+
+Internet censorship research
+Digital freedom advocacy
+Information security
+Privacy protection
+🚀 Featured Projects | پروژه‌های برجسته
+💾 ChatGPT Business Backup Guide
+ 
+Comprehensive ethical framework for AI data preservation in enterprise environments with GDPR compliance.
+
+راهنمای جامع پشتیبان‌گیری اخلاقی از داده‌های هوش مصنوعی سازمانی
+
+Key Features:
+
+🔐 Enterprise backup protocols
+⚖️ Legal compliance frameworks
+📋 Risk assessment templates
+🛡️ Data security standards
+🧭 PromptCraft Framework
+ 
+Educational toolkit for transparent and responsible prompt engineering with multilingual documentation.
+
+چارچوب آموزشی مهندسی پرامپت شفاف و مسئولانه
+
+Key Features:
+
+📚 Interactive learning modules
+🎯 Best practice guidelines
+🌐 English/Persian support
+🔧 Practical examples
+⚖️ AI Transparency Docs
+ 
+Comprehensive ethical audit and governance templates for transparent AI system implementation.
+
+اسناد جامع شفافیت و حاکمیت اخلاقی در سیستم‌های هوش مصنوعی
+
+Key Features:
+
+✅ Ethics audit checklists
+🔍 Bias detection frameworks
+📑 Governance templates
+📊 Impact assessment tools
+🌐 PanbehNet AI Portal
+ 
+Open platform for data transparency and AI literacy education for public access.
+
+پرتال عمومی شفافیت داده و سواد هوش مصنوعی
+
+Key Features:
+
+📊 Open data visualization
+🎓 Interactive learning paths
+🔓 Free educational resources
+🌍 Community-driven content
+🐦 X-Analyzer
+ 
+Open-source ethical Twitter/X data parser for transparency and AI research with responsible data handling.
+
+Key Features:
+
+🔧 CLI framework (curl + jq)
+📡 FXTwitter API integration
+📄 JSON structured output
+♻️ Open-source & ethical
+🔬 Ethical AI Research Fund
+ 
+Independent research initiative for AI ethics and data transparency (2024-Present).
+
+صندوق پژوهش مستقل اخلاق هوش مصنوعی و شفافیت داده
+
+Focus Areas:
+
+🏛️ Self-funded research
+🌐 Open knowledge sharing
+🤝 Community collaboration
+📖 Public documentation
+
+ Publications & Works | انتشارات و آثار
+📚 Featured Publications | انتشارات برجسته
+📄 AI and Human Pain: From Pixels to Perception (2025)
+
+
+
+
+
+
+Human-AI collaboration case study using ChatGPT-5 for lumbar spine MRI interpretation, neural compression detection, and diagnostic dialogue. Demonstrates AI diagnostic capabilities in radiology and pain management.
+
+Citation:
+
+Mohammadi, T. (2025). AI and Human Pain: From Pixels to Perception. 
+Zenodo. https://doi.org/10.5281/zenodo.17451336
+📄 Internet Censorship in Iran: Historical Roots, Mechanisms, and Societal Consequences (2025)
+
+
+
+
+
+
+Comprehensive analysis of internet censorship in Iran (2005-2025) covering historical emergence, key actors, mechanisms (National Information Network, Iranian Firewall), and impacts on society, journalism, and digital rights. Available in English and Persian.
+
+Citation:
+
+Mohammadi, T. (2025). Internet Censorship in Iran: Historical Roots, Mechanisms, 
+and Societal Consequences. University of the People / Zenodo (CERN). 
+https://doi.org/10.5281/zenodo.17411924
+💻 X-Analyzer: Ethical Twitter/X Data Parser (2025)
+
+
+
+
+
+
+Open-source command-line framework for transparent and ethical analysis of public X/Twitter data. Demonstrates responsible data retrieval, documentation, and analysis principles.
+
+Repository: github.com/TAwR00T/X-analyzer
+
+✍️ Writing & Articles | نوشتار و مقالات
+
+Regular articles on:
+
+🤖 AI Ethics & Governance
+📊 Data Transparency
+🔒 Digital Rights & Freedom
+🌐 Internet Censorship
+🧠 Prompt Engineering
+🎓 AI Education
+
+ Academic & Professional Network | شبکه‌های علمی و حرفه‌ای
+🎓 Research Profiles | پروفایل‌های پژوهشی
+
+ORCID
+0009-0005-6825-6728	
+Google Scholar
+VP8O0a4AAAAJ	
+Web of Science
+ORI-6601-2025	
+OpenAIRE
+Research Explorer	
+Zenodo
+Research Works
+💻 Development & Code | توسعه و کد
+ 
+
+✍️ Writing & Community | نوشتار و اجتماع
+  
+
+🏛️ Institutional Affiliations | وابستگی‌های سازمانی
+
+University of the People
+B.Sc. Computer Science (AI)
+2025-Present	
+Tawana Network
+Ethical AI Research Hub
+Founder & Director	
+Independent Researcher
+AI Ethics & Data Strategy
+Tehran, Iran
+📧 Verified Email Addresses | ایمیل‌های تأیید شده
+ 
+
+
+ Skills & Technology Stack | مهارت‌ها و پشته فناوری
+💻 Technical Skills | مهارت‌های فنی
+
+🎯 Core Competencies | شایستگی‌های اصلی
+🤖 AI & Machine Learning
+ChatGPT System Analysis
+Prompt Engineering & Design
+LLM Integration & Fine-tuning
+AI Ethics & Governance
+Algorithmic Bias Detection
+Human-AI Interaction Design
+📊 Data Strategy & Governance
+Data Transparency Frameworks
+Privacy-Preserving Analytics
+Governance Architecture Design
+Compliance Standards (GDPR)
+Open Data Initiatives
+Risk Assessment Protocols
+🔒 Cybersecurity & Digital Rights
+Internet Censorship Research
+Digital Freedom Advocacy
+Information Security Protocols
+Privacy Protection Systems
+Ethical Hacking Awareness
+Network Security Analysis
+🎓 Education & Communication
+Technical Writing (English/Persian)
+Curriculum Development
+Research Publications
+Community Building
+Workshop Facilitation
+Multilingual Documentation
+🛠️ Tools & Platforms | ابزارها و پلتفرم‌ها
+Programming & Development:
+  Languages: Python, TypeScript, JavaScript, Bash, SQL
+  Frameworks: PyTorch, TensorFlow, FastAPI, Flask, Next.js, React
+  Tools: Git, Docker, VS Code, Jupyter, Postman
+
+AI & ML Platforms:
+  - OpenAI API (GPT-4, ChatGPT)
+  - LangChain & LangSmith
+  - Hugging Face Transformers
+  - Anthropic Claude API
+
+Data & Analytics:
+  - Pandas, NumPy, SciPy
+  - Plotly, Matplotlib, Seaborn
+  - PostgreSQL, SQLite, Redis
+  - Apache Spark (basics)
+
+Research & Publishing:
+  - Zenodo, ORCID, OpenAIRE
+  - Google Scholar, Web of Science
+  - LaTeX, Markdown, Notion
+  - Medium, Substack, GitHub Pages
+
+Cloud & DevOps:
+  - AWS (EC2, S3, Lambda)
+  - Google Cloud Platform
+  - Docker, CI/CD basics
+  - Linux/Unix Systems
+
+ GitHub Analytics | آمار و تحلیل گیت‌هاب
+GitHub Stats	GitHub Streak
+Top Languages	Activity Graph
+🏆 GitHub Achievements | دستاوردهای گیت‌هاب
+GitHub Trophies
+📊 Contribution Graph | نمودار مشارکت
+Contribution Graph
+
+ Employment & Education | سوابق شغلی و تحصیلی
+💼 Professional Experience | تجربیات حرفه‌ای
+🎓 AI Researcher • Data Strategist • Educator
+University of the People | Pasadena, California, US
+2025 - Present
+
+Department of Computer Science / AI Ethics & Data Strategy
+
+Conducting research in AI ethics, data transparency, and human-centered design
+Developing educational frameworks for AI literacy and responsible technology use
+Publishing academic work on digital rights, internet censorship, and AI governance
+Collaborating on open-source AI projects and community education initiatives
+🔬 Independent AI Researcher
+Tawana Network | Tehran, Iran (Remote)
+2024 - Present
+
+Ethical AI & Data Transparency Research Hub
+
+Leading self-funded research on AI ethics, data governance, and digital rights
+Publishing open-access research papers and technical documentation
+Building educational resources for AI literacy in English and Persian
+Advocating for transparent, inclusive, and ethical AI development
+🎓 Education | تحصیلات
+📚 Bachelor of Science (B.Sc.) in Computer Science
+University of the People | Pasadena, California, US
+2025 - Present
+
+Major: Computer Science | Concentration: Artificial Intelligence
+
+Honors & Distinctions:
+
+✅ Orientation Completed (Office of Student Advising and Orientation, November 2025)
+🏅 Academic Focus: AI Ethics, Machine Learning, Data Science, Cybersecurity
+Relevant Coursework:
+
+Artificial Intelligence & Machine Learning
+Data Structures & Algorithms
+Database Management Systems
+Computer Networks & Security
+Software Engineering Principles
+🏆 Funding & Grants | بودجه و کمک‌های مالی
+💰 Ethical AI and Data Transparency Research Project
+Self-funded / Independent Researcher | Tehran, Iran
+2024 - Present
+
+Project Website: https://tawana.online
+
+Independent research initiative focused on:
+
+🔬 AI ethics and algorithmic accountability
+📊 Data transparency and governance frameworks
+🌐 Digital rights and internet freedom
+🎓 Public education and AI literacy
+Funding Model: Self-sustaining through personal investment in open knowledge and community-driven research
+
+
+ Let's Connect | بیایید در ارتباط باشیم
+📬 Contact Information | اطلاعات تماس
+
+Website
+tawana.online	
+Primary Email
+info@tawana.online	
+Gmail
+tawanamohammadi@gmail.com	
+Phone
++98 990 112 0235
+🔗 Quick Links | لینک‌های سریع
+  
+
+  
+
+  
+
+🤝 Open to Collaborate On | آماده همکاری در
+    
+
+📍 Location & Availability | موقعیت و دسترسی
+
+Based In
+Tehran, Iran	
+Working
+Remote / Global	
+Timezone
+IRST (UTC+3:30)
+
+🔍 Research Keywords | کلیدواژه‌های پژوهشی
+**English:** AI Research • AI Ethics • Data Transparency • Prompt Engineering • Digital Rights • Internet Censorship • Cybersecurity • Machine Learning • Data Governance • Human-AI Collaboration • ChatGPT Systems • Responsible AI • Algorithmic Accountability • Privacy Protection • Open Data • AI Literacy • Computer Science • Information Security • Freedom of Information
+فارسی: توانا محمدی • توانامحمدی • پژوهشگر هوش مصنوعی • اخلاق هوش مصنوعی • شفافیت داده • مهندسی پرامپت • حقوق دیجیتال • سانسور اینترنت • امنیت سایبری • یادگیری ماشین • حاکمیت داده • همکاری انسان و هوش مصنوعی • هوش مصنوعی مسئولانه • حریم خصوصی • داده باز • سواد هوش مصنوعی
+
+Tawana Mohammadi Logo
+Tawana Mohammadi | توانا محمدی
+AI Researcher • Data Strategist • Educator
+پژوهشگر هوش مصنوعی • استراتژیست داده • مدرس
+💭 Research Philosophy | فلسفه پژوهش
+"True progress in AI lies not in power, but in empathy, accessibility, and accountability."
+
+«پیشرفت واقعی در هوش مصنوعی در قدرت نیست، بلکه در همدلی، دسترسی‌پذیری و پاسخگویی است.»
+
+© 2025 Tawana Mohammadi. Building transparent, ethical, and educational AI systems.
+© ۲۰۲۵ توانا محمدی. ساخت سیستم‌های هوش مصنوعی شفاف، اخلاقی و آموزشی.
+**Identifiers:** ORCID 0009-0005-6825-6728 | Web of Science ORI-6601-2025 | Google Scholar VP8O0a4AAAAJ
+**Contact:** info@tawana.online | +98 990 112 0235 | https://tawana.online
+
+
+
+
+Popular repositoriesLoading
+phii2
+Public
+phi2
+
+ TypeScript  2  1
+
+image
+Public
+
+ 1  1
+
+X-analyzer
+Public
+
+ 1  1
+
+marz-warp
+Public
+
+ Shell  1
+
+texttopdf
+Public
+texttopdf
+
+ TypeScript  1  1
+
+voe3
+Public
+veo3
+
+ 1
+
+298 contributions in the last year
+Skip to contributions year list
+Contribution Graph
+Day of Week	NovemberNov	DecemberDec	JanuaryJan	FebruaryFeb	MarchMar	AprilApr	MayMay	JuneJun	JulyJul	AugustAug	SeptemberSep	OctoberOct
+SundaySun																																																					
+MondayMon																																																					
+TuesdayTue																																																					
+WednesdayWed																																																					
+ThursdayThu																																																					
+FridayFri																																																					
+SaturdaySat																																																					
+Learn how we count contributions
+Less
+No contributions.
+Low contributions.
+Medium-low contributions.
+Medium-high contributions.
+High contributions.
+More
+Contribution activity
+November 2025
+ tawanamohammadi/TwitterTelegram
+ TypeScript
+This contribution was made on Nov 7Nov 7
+ tawanamohammadi/twitterX-activity-osint
+ Python
+This contribution was made on Nov 7Nov 7
+ tawanamohammadi/ai-ethics-and-digital-gove...
+ TypeScript
+This contribution was made on Nov 5Nov 5
+ tawanamohammadi/osint-Babak-Zanjani-company
+This contribution was made on Nov 5Nov 5
+ tawanamohammadi/phii2
+ TypeScript
+This contribution was made on Nov 4Nov 4
+ tawanamohammadi/tawanamohammadi
+ HTML
+This contribution was made on Nov 4Nov 4
+Loading
+Seeing something unexpected? Take a look at the GitHub profile guide.
+
+2025
+2024
+2023
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+tawanamohammadi (tawana mohammadi - توانا محمدی )
